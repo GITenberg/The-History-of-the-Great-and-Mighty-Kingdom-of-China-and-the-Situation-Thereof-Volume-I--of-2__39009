@@ -1,0 +1,46 @@
+_repo: The-History-of-the-Great-and-Mighty-Kingdom-of-China-and-the-Situation-Thereof-Volume-I--of-2__39009
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Parke, Robert, active 1588
+    alias: Parke, R. (Robert)
+    gutenberg_agent_id: '39787'
+    url: http://www.gutenberg.org/2009/agents/39787
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: González de Mendoza, Juan
+    aliases:
+    - Gonzáles de Mendoza, Juan
+    - De Mendoza, Juan González
+    - Gonzalez de Mendoza, Juan
+    - Mendoza, Juan González de
+    birthdate: 1545
+    deathdate: 1618
+    gutenberg_agent_id: '39785'
+    url: http://www.gutenberg.org/2009/agents/39785
+  editor:
+    agent_name: Staunton, George Thomas, Sir
+    birthdate: 1781
+    deathdate: 1859
+    gutenberg_agent_id: '39786'
+    url: http://www.gutenberg.org/2009/agents/39786
+description: ''
+gutenberg_issued: '2012-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Description and travel -- Early works to 1800'
+- !lcsh 'Latin America -- Description and travel -- Early works to 1800'
+- !lcc 'G'
+- !lcsh 'Philippines -- Description and travel -- Early works to 1800'
+title: The History of the Great and Mighty Kingdom of China and the Situation Thereof,
+  Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/39009
